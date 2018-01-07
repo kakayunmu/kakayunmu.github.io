@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 author: kakayunmu
 title: Linux 常用指令
 tags: "Linux"
