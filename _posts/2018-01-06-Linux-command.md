@@ -2,14 +2,16 @@
 layout: post
 author: kakayunmu
 title: Linux 常用指令
-tags: "Linux"
+tags: "Linux","command"
 ---
-
+[TOC]
 > [参考 *linux基本命令（很全的）*](http://blog.csdn.net/lykangjia/article/details/11655887)
 
 # 命令格式
 
-` 命令名 [-选项] 参数`
+```
+# 命令名 [-选项] 参数
+```
 
 >提示符 root 命令提示符 **#** 其他用户命令提示符为 **$**
 
