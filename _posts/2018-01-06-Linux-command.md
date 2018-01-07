@@ -2,8 +2,10 @@
 layout: post
 author: kakayunmu
 title: Linux 常用指令
-tags: "Linux","command"
+tags: "Linux,command"
 ---
+[TOC]
+
 > [参考 *linux基本命令（很全的）*](http://blog.csdn.net/lykangjia/article/details/11655887)
 
 # 命令格式
